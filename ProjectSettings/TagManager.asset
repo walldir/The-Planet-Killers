@@ -8,12 +8,9 @@ TagManager:
   - Background
   - EnemyShip
   - EnemyBullet
-<<<<<<< HEAD
   - PlayerShip
   - ScoreText
   - PlayerBullet
-=======
->>>>>>> 83be763ca2c2e1362e07009c79bde844a0214108
   layers:
   - Default
   - TransparentFX
@@ -51,7 +48,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
   - name: Background
     uniqueID: 1038501479
     locked: 0
@@ -61,5 +57,3 @@ TagManager:
   - name: Effects
     uniqueID: 346414947
     locked: 0
-=======
->>>>>>> 83be763ca2c2e1362e07009c79bde844a0214108
