@@ -10,7 +10,11 @@ GameObject:
   - component: {fileID: 464958}
   - component: {fileID: 21206994}
   - component: {fileID: 11417660}
+<<<<<<< HEAD
   m_Layer: 1
+=======
+  m_Layer: 0
+>>>>>>> 83be763ca2c2e1362e07009c79bde844a0214108
   m_Name: PlanetGO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24,8 +28,13 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 153212}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 3, y: 6.37, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> 83be763ca2c2e1362e07009c79bde844a0214108
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -41,7 +50,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9c623d5812c3ef419ca37db0cc36cf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   speed: -0.2
+=======
+  speed: 0
+>>>>>>> 83be763ca2c2e1362e07009c79bde844a0214108
   isMoving: 0
 --- !u!212 &21206994
 SpriteRenderer:
@@ -75,10 +88,17 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< HEAD
   m_SortingLayerID: 1038501479
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: f472066977a3cef47bfaf9f006295a4c, type: 3}
+=======
+  m_SortingLayerID: -1023677945
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: e7f871ae5909d6a4eae0b3d30fdbe84c, type: 3}
+>>>>>>> 83be763ca2c2e1362e07009c79bde844a0214108
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
